@@ -29,5 +29,5 @@ defaults:
   values:
     layout: page
 url: https://snipcart.github.io/snipcart-jamstack
-snipcart_api_key: ''
+snipcart_api_key: YWU4MGEzNWMtMGRmMi00Y2JmLTg4MDMtZDllNDZkMGM5ZmE4NjM2NzkwMTM3MzQ4OTMyNjQy
 permalink: pretty
